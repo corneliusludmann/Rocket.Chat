@@ -1,0 +1,5 @@
+tasks:
+  - init: meteor npm install
+    command: meteor npm start
+image:
+  file: .gitpod.Dockerfile
